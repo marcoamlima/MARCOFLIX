@@ -74,28 +74,28 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Músicas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Músicas Favoritas",
+        "url": "#"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "5 Seconds Of Summer - Youngblood",
+          "url": "https://www.youtube.com/watch?v=-RJSbO8UZVY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Duke Dumont - Ocean Drive",
+          "url": "https://www.youtube.com/watch?v=KDxJlW6cxRk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Sam Smith - I'm Not the Only One",
+          "url": "https://www.youtube.com/watch?v=rnCVF0r4e8g"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Alice Merton - No Roots",
+          "url": "https://www.youtube.com/watch?v=PUdyuKaGQd4"
         }
       ]
     },
@@ -104,12 +104,12 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Alice no País das Maravilhas",
+          "url": "https://www.youtube.com/watch?v=UWCymwAUsY4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Harry Potter  e a Ordem da Fenix",
+          "url": "youtube.com/watch?v=6nzOej8jGgs"
         },
         {
           "titulo": "A Chegada",
@@ -125,7 +125,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Jogos Favoritos",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -134,8 +134,8 @@
           "url": "https://www.youtube.com/watch?v=K8zo6EWFe-Y"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Mobile Legends | 515",
+          "url": "https://www.youtube.com/watch?v=ffBd-mt3lQo"
         },
         {
           "titulo": "God of War 4",
@@ -146,8 +146,8 @@
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The Sims 4",
+          "url": "https://www.youtube.com/watch?v=z00mK3Pxc8w"
         }
       ]
     },
