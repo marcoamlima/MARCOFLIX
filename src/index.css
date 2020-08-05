@@ -28,5 +28,5 @@ a{
   min-width: calc(100vh - var(--bodyPaddingTop));
   display: flex;
   flex-direction: column;
-  padding-top: 90px;
+  padding-top: 50px;
 }
